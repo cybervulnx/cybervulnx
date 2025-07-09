@@ -2,7 +2,7 @@
   <img src="cybervulnx-logo.jpg" alt="CyberVulnX Logo" width="350">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Sakshi Javheri</h1>
+<h1 align="center">Hi there 👋, Welcome To CyberVulnx Club</h1>
 
 <p align="center">
   💻 Cybersecurity Enthusiast • 🎓 Student Leader @ CyberVulnX<br/>
