@@ -45,8 +45,8 @@
 
 ### 🤝 Let's Connect
 
-- 📧 Email: your.email@example.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 📧 Email: cybervulnx@gmail.com  
+- 🔗 [Instagram](https://www.instagram.com/in/cybervulnx)  
 - 💼 [Linktree](https://www.linktr.ee/Cybervulnx)
 
 ---
