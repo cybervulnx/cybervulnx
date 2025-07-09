@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="cybervulnx-logo.jpg" alt="CyberVulnX Logo" width="350">
+</p>
 
-<!--
-**cybervulnx/cybervulnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Sakshi Javheri</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Cybersecurity Enthusiast • 🎓 Student Leader @ CyberVulnX<br/>
+  🔐 Building awareness through workshops, CTFs & hands-on learning
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🎓 I'm passionate about **Cybersecurity**, **CTFs**, and making security education fun and accessible
+- 🛠️ Currently working on:  
+  `Intro to CTF`, `Cyber Awareness Guide`, and hands-on student workshops
+- 💬 Ask me about:  
+  Web security, beginner CTFs, OSINT, or how to start in cybersecurity
+- 🌐 Visit our club’s resources here:  
+  [🔗 CyberVulnX Linktree](https://www.linktr.ee/Cybervulnx)
+- 🎯 Motto: *Offensive Minds, Defensive Mission*
+
+---
+
+### 🚀 Projects & Labs
+
+| Project | Description |
+|--------|-------------|
+| [🔍 CTF Starter Lab](https://github.com/yourusername/ctf-lab) | Beginner CTF using view-source to find flags |
+| [📖 Cyber Awareness Booklet](https://github.com/yourusername/cyber-awareness-booklet) | 5-page guide with emergency contacts, tips & laws |
+| [🛡️ CyberVulnX Website](https://github.com/yourusername/cybervulnx-site) | Official site (under development) |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="49%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+- 📧 Email: your.email@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 💼 [Linktree](https://www.linktr.ee/Cybervulnx)
+
+---
+
+> 🔐 *Made with ❤️ by CyberVulnX Team — Offensive Minds, Defensive Mission.*
