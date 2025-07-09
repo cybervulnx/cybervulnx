@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="cybervulnx-logo.jpg" alt="CyberVulnX Logo" width="350">
+  <img src="cybervulnx logo.jpg" alt="CyberVulnX Logo" width="350">
 </p>
 
 <h1 align="center">Hi there 👋, Welcome To CyberVulnx Club</h1>
 
 <p align="center">
-  💻 Cybersecurity Enthusiast • 🎓 Student Leader @ CyberVulnX<br/>
+  💻 Cybersecurity Enthusiast Club • 🎓 Student Leader @ CyberVulnX<br/>
   🔐 Building awareness through workshops, CTFs & hands-on learning
 </p>
 
